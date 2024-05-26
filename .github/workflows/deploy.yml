@@ -22,8 +22,6 @@ jobs:
 
       - name: Build project
         run: npm run build
-        env:
-          VITE_GITHUB_TOKEN: ${{ secrets.VITE_GITHUB_TOKEN }}
 
       - name: Upload production-ready build files
         uses: actions/upload-artifact@v3
