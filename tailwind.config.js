@@ -8,8 +8,11 @@ module.exports = {
         "./src/**/*.{vue,js,ts,jsx,tsx}",
     ],
     theme: {
-        extend: {
-
+        extend: { 
+            colors: {
+                'button-color': portfolio.colors.buttonColor,
+                'link-color': portfolio.colors.LinkHighlightColor
+            }
         },
     },
     plugins: [],

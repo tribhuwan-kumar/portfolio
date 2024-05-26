@@ -1,3 +1,8 @@
+const colors = {
+    buttonColor: "#d9ddff",
+    LinkHighlightColor: "#a4a8cc"
+}
+
 const transitions = {
     active: true,
     onlyLanding: false,
@@ -100,6 +105,7 @@ const github = {
 }
 
 export default {
+    colors,
     transitions,
     splashScreen,
     greeting,
