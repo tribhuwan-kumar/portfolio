@@ -1,0 +1,14 @@
+:root {
+    --bg-0: #09090B; /* Brightest */
+    --bg-1: #09090B;
+    --bg-2: #09090B;
+    --bg-3: #09090B; /* Darkest */
+    --text-0: #CBD5E1; /* Darkest */
+    --text-1: #CBD5E1;
+    --text-2: #CBD5E1;
+    --text-3: #CBD5E1; /* Brightest */
+    --color-0: #facc15; /* "Ring" Color */
+    --color-1: #6ee7b7; /* "Easy" Color */
+    --color-2: #fcd34d; /* "Medium" Color */
+    --color-3: #f87171; /* "Hard" Color */
+}
