@@ -95,7 +95,7 @@ const contact = {
 
 const leetcode = {
     profileLink: "https://leetcode.com/tribhuwan-kumar",
-    darkModeleetcode: "https://leetcard.jacoblin.cool/tribhuwan-kumar?theme=dark&font=Source%20Code%20Pro&ext=heatmap&sheets=https://raw.githubusercontent.com/tribhuwan-kumar/dotfiles/main/style.css",
+    darkModeleetcode: "https://leetcard.jacoblin.cool/tribhuwan-kumar?theme=dark&font=Source%20Code%20Pro&ext=heatmap&sheets=https://raw.githubusercontent.com/tribhuwan-kumar/portfolio/main/leetcode-style.css",
     leetcode: "https://leetcard.jacoblin.cool/tribhuwan-kumar?theme=light&font=Source%20Code%20Pro&ext=heatmap",
 }
 
