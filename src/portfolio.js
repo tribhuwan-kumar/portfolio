@@ -19,13 +19,9 @@ const splashScreen = true
 const greeting = {
     intro: "Hello, my name is",
     name: "Tribhuwan",
-    message: "I'm a self taught developer and a student with experienced in several popular programming languages, including C, Go, Python, JavaScript & Typescript. These days I'm working on a personal SaaS project.",
+    message: "I'm a developer and a student with experienced in several popular programming languages, including C, Go, Rust, Python, JavaScript & Typescript. These days I'm working on a personal SaaS project.",
     basedLocation: "Bihar, India",
     resumeLink: "#",
-    logo: {
-        link: "images/initials.png",
-        custom: true
-    },
 }
 
 const socialMediaLinks = {
@@ -38,7 +34,7 @@ const socialMediaLinks = {
 const about = {
     autobiography: [
         "As a bored kid, I learned programming and found out that it is fun, so I thought I could make a career out of it... That's why I'm pursuing my Bachelor’s degree in Computer Applications at Bihar University, India.",
-        "I got alot of hobbies, can't mention here!!"
+        "& I got alot of hobbies!!"
     ],
     techStack: [
         "C",
