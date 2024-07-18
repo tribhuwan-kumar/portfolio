@@ -28,12 +28,12 @@ const socialMediaLinks = {
     github: "https://github.com/tribhuwan-kumar",
     instagram: "https://instagram.com/trashbhuwan",
     xtwitter: "https://twitter.com/trashbhuwan",
-    linkedin: "https://www.linkedin.com/in/tribhuwan-kumar-7b6049289/",
+    linkedin: "",
 }
 
 const about = {
     autobiography: [
-        "As a bored kid, I learned programming and found out that it is fun, so I thought I could make a career out of it... That's why I'm pursuing my Bachelor’s degree in Computer Applications at Bihar University, India.",
+        "As a bored kid, I learned programming and found out that it is fun, so I thought I could make a career out of it... That's why I'm pursuing my Bachelor’s degree in Computer Applications at a University in India.",
         "& I got alot of hobbies!!"
     ],
     techStack: [
