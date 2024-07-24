@@ -19,7 +19,7 @@ const splashScreen = true
 const greeting = {
     intro: "Hello, my name is",
     name: "Tribhuwan",
-    message: "I'm a developer and a student with experienced in several popular programming languages, including C, Go, Rust, Python, JavaScript & Typescript. These days I'm working on a personal SaaS project.",
+    message: "I'm a developer and a student with experienced in several popular programming languages, including C, Go, Python, JavaScript & Typescript. These days I'm working on a personal SaaS project.",
     basedLocation: "Bihar, India",
     resumeLink: "#",
 }
@@ -88,7 +88,7 @@ const contact = {
             "Also looking to build a team for projects & startup ideas or just make professional connections."
         ],
         link: {
-            email: "freakybytes@duck.com",
+            email: "trashbhuwan@proton.me",
         },
     },
 }
